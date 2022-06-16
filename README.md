@@ -1,6 +1,12 @@
+---
+layout: page
+title: home
+permalink: //
+---
+
 # Welcome to my website!
 
-**This website is a work in progress.**
+<h3 style="color: black; background-color: tomato; border-left:10px solid gray;">This is a work in progress.</h3>
 
 ## About me
 
@@ -11,7 +17,7 @@ My accounts:
 
 ## Some informations
 
-This website repository: [me-mariosteve.github.io](https://github.com/me-mariosteve/me-mariosteve.github.io/)
+This website repository: [me-mariosteve/me-mariosteve.github.io](https://github.com/me-mariosteve/me-mariosteve.github.io/)
 
 Made with: Github Pages, [Jekyll](https://jekyllrb.com/)
 

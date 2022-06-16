@@ -1,7 +1,3 @@
----
-title: home
----
-
 # Welcome to my website!
 
 <h3 style="color: black; background-color: tomato; border-left:10px solid gray;">This is a work in progress.</h3>
